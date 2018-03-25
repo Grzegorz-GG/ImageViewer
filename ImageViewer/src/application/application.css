@@ -1,0 +1,36 @@
+
+
+.button {
+	-fx-background-color: black;
+}
+
+.button:hover {
+	-fx-border-color: white;
+	-fx-border-width: 5;
+}
+
+.button:pressed {
+	-fx-background-color:green;
+	-fx-border-color:green;
+}
+
+.menu-bar{
+	-fx-background-color: white;
+}
+
+.menu:hover, .label:hover{
+	
+	-fx-background-color: linear-gradient(to bottom right, #2cd651,green);
+}
+
+.menu:showing{
+	-fx-background-color: linear-gradient(to bottom right, #2cd651,green);
+}
+
+.menu-item:focused, .label:hover {
+	-fx-background-color: linear-gradient(to bottom right, #2cd651,green);
+	-fx-font-weight: bold;
+}
+
+
+
