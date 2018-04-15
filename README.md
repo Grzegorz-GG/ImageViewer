@@ -6,7 +6,7 @@ Picture viewer application enables to open, edit and save pictures. The applicat
 - arrows allow to move back and forth in order to view loaded pictures,</br>
 - zoom effect has been also included (use mouse toggle button)</br> 
 
-JavaFX application uses 
+JavaFX application uses "fontawesomefx" package to create some fxml objects.
 
 ![imageviewer1](https://user-images.githubusercontent.com/34214903/38783856-a436236a-4108-11e8-820e-6ef11fde5b33.jpg)</br>
 
