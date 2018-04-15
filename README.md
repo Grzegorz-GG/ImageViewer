@@ -6,4 +6,8 @@ Picture viewer application enables to open, edit and save pictures. The applicat
 - arrows allow to move back and forth in order to view loaded pictures,</br>
 - zoom effect has been also included (use mouse toggle button)</br> 
 
-![imageviewer1](https://user-images.githubusercontent.com/34214903/38783856-a436236a-4108-11e8-820e-6ef11fde5b33.jpg)
+JavaFX application uses 
+
+![imageviewer1](https://user-images.githubusercontent.com/34214903/38783856-a436236a-4108-11e8-820e-6ef11fde5b33.jpg)</br>
+
+![imageviewer2](https://user-images.githubusercontent.com/34214903/38783931-0c9bec86-410a-11e8-9f81-49d84e116652.jpg)
